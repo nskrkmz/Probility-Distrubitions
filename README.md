@@ -10,6 +10,3 @@
 [Gama](https://github.com/nskrkmz/Probility-Distrubitions/blob/master/Continuous(S%C3%BCrekli%20Dagilimlar)/GammaDistribiton.c)
 [Beta](https://github.com/nskrkmz/Probility-Distrubitions/blob/master/Continuous(S%C3%BCrekli%20Dagilimlar)/BetaDistribiton.c)
 [Weibull](https://github.com/nskrkmz/Probility-Distrubitions/blob/master/Continuous(S%C3%BCrekli%20Dagilimlar)/WeibullDistribiton.c)
-
-merhaba burak
- 
